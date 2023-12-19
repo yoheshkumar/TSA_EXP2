@@ -1,23 +1,23 @@
-Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
+#Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 Date:
-AIM:
+###AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
-ALGORITHM:
+###ALGORITHM:
 Import necessary libraries (NumPy, Matplotlib)
 Load the dataset
 Calculate the linear trend values using least square method
 Calculate the polynomial trend values using least square method
 End the program
-PROGRAM:
+###PROGRAM:
 A - LINEAR TREND ESTIMATION
 
 B- POLYNOMIAL TREND ESTIMATION
 
-OUTPUT
+###OUTPUT
 A - LINEAR TREND ESTIMATION
 
 B- POLYNOMIAL TREND ESTIMATION
 
-RESULT:
+###RESULT:
 Thus the python program for linear and Polynomial Trend Estiamtion has been executed successfully.
